@@ -3,8 +3,8 @@
 	display: flex;
 	justify-content: space-around;
 }
-@media (max width:  700px){
-	 .cases{
+@media (max-width:  900px){
+	 .cases {
 	 flex-direction: column;
 	}
 }
