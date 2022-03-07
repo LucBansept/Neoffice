@@ -1,0 +1,10 @@
+.cases {
+	margin: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+@media (max width:  700px){
+	 .cases{
+	 flex-direction: column;
+	}
+}
