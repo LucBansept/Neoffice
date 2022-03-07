@@ -1,0 +1,5 @@
+.liste-cases{
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 40px;
+}
