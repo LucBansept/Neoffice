@@ -1,9 +1,0 @@
-.banner {
-	background-image: url(../../images/banner.jpg);
-	background-size: cover;
-	background position: center;
-}
-
-.banner h1,h2,h3,p {
-	color:  rgb(222, 228, 236);
-}
